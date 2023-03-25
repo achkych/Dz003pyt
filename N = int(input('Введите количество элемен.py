@@ -38,4 +38,4 @@
 # elif N == 0:
 # 	print('За это слово вы получаете', sum([k for i in word for k, v in rus.items() if i in v]), 'очков')
 # else:
-#     print('Вы мухлюете и играете не по правилам!')
+#     print('Вы играете не по правилам!')
